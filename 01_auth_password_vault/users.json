@@ -1,0 +1,14 @@
+{
+    "deva": {
+        "password": "c26d753707fba14cf3c1f43a5c3c6c0c750045b1a1a96b03829de9663c23e911",
+        "vault": []
+    },
+    "admin": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "vault": [
+            "SYSTEM_SECRET_KEY",
+            "DATABASE_PASSWORD",
+            "SERVER_CONFIG"
+        ]
+    }
+}
