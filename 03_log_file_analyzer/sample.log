@@ -1,0 +1,21 @@
+2024-01-12 09:59:58 INFO Application started
+2024-01-12 10:00:01 INFO User service initialized
+2024-01-12 10:00:03 INFO Database connection established
+2024-01-12 10:01:10 INFO User login success user_id=1023
+2024-01-12 10:01:15 WARNING Disk usage at 78%
+2024-01-12 10:02:01 INFO File upload started filename=report.pdf
+2024-01-12 10:02:05 INFO File upload completed filename=report.pdf
+2024-01-12 10:03:12 ERROR Database connection timeout
+2024-01-12 10:03:20 INFO Retrying database connection
+2024-01-12 10:03:25 INFO Database connection restored
+2024-01-12 10:04:00 INFO User logout user_id=1023
+2024-01-12 10:05:45 WARNING API response time slow endpoint=/payments
+2024-01-12 10:06:02 ERROR Payment gateway unreachable
+2024-01-12 10:06:10 INFO Fallback payment gateway engaged
+2024-01-12 10:07:30 INFO User login success user_id=2045
+2024-01-12 10:08:15 WARNING Memory usage high 82%
+2024-01-12 10:09:01 INFO Cache cleanup started
+2024-01-12 10:09:10 INFO Cache cleanup completed
+2024-01-12 10:10:05 ERROR Failed to send email notification
+2024-01-12 10:10:20 INFO Retry email send scheduled
+2024-01-12 10:11:00 INFO Application running normally

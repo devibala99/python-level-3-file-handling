@@ -1,0 +1,11 @@
+LOG ANALYSIS REPORT
+-------------------
+Total Lines: 21
+INFO: 15
+WARNING: 3
+ERROR: 3
+
+ERROR DETAILS:
+2024-01-12 10:03:12 ERROR Database connection timeout
+2024-01-12 10:06:02 ERROR Payment gateway unreachable
+2024-01-12 10:10:05 ERROR Failed to send email notification
