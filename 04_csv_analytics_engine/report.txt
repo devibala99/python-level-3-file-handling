@@ -1,0 +1,14 @@
+SALES ANALYTICS REPORT
+----------------------
+
+Total Revenue: 355000
+
+Revenue by Category:
+- Electronics: 240000
+- Furniture: 115000
+
+Revenue by Region:
+- South: 123000
+- North: 117000
+- East: 67000
+- West: 48000
