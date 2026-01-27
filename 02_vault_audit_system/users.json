@@ -1,0 +1,22 @@
+{
+    "Deva": {
+        "password": "3b012bccf3e92b071a780659c262513059fbc3ace6c2d19f705f9fbc91196690",
+        "vault": []
+    },
+    "admin": {
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "vault": [
+            "SYSTEM_SECRET_KEY",
+            "DATABASE_PASSWORD",
+            "SERVER_CONFIG",
+            "APPLICATION_SECRET_KEY",
+            "DATA"
+        ]
+    },
+    "gowtham": {
+        "password": "f2fdd58856e77152463d6183ffa198d69bb241ddf8378734c4d074f74544f4c8",
+        "vault": [
+            "DATABASE_PASSWORD"
+        ]
+    }
+}
