@@ -1,0 +1,10 @@
+{
+    "T1001": {
+        "description": "Payment failure on checkout",
+        "state": "OPEN"
+    },
+    "BUG_204": {
+        "description": "Login API returning 500 error",
+        "state": "IN_PROGRESS"
+    }
+}
