@@ -1,0 +1,11 @@
+{
+    "app": {
+        "name": "ConfigApp",
+        "version": "1.0"
+    },
+    "features": {
+        "show_welcome": true,
+        "enable_discount": false,
+        "debug_mode": true
+    }
+}
